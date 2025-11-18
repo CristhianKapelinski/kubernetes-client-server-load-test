@@ -83,15 +83,15 @@ Todos os scripts necessários já estão presentes no repositório:
 
 Os principais gráficos de análise dos testes estão disponíveis abaixo:
 
-- ![Latência vs Clientes (com outliers)](logs/final_graphs/1a_latency_vs_clients_with_outliers.png)
-- ![Latência vs Clientes (sem outliers)](logs/final_graphs/1b_latency_vs_clients_no_outliers.png)
-- ![Latência vs Réplicas de Servidor (com outliers)](logs/final_graphs/3a_latency_vs_servers_with_outliers.png)
-- ![Latência vs Réplicas de Servidor (sem outliers)](logs/final_graphs/3b_latency_vs_servers_no_outliers.png)
-- ![Distribuição Geral de Latência](logs/final_graphs/4_overall_latency_distribution.png)
-- ![Heatmap de Latência (C++)](logs/final_graphs/5_heatmap_latency_cpp.png)
-- ![Heatmap de Latência (Go)](logs/final_graphs/5_heatmap_latency_go.png)
-- ![Estabilidade da Latência por Execução - Cenário 1](logs/final_graphs/6a_run_stability_latency_scenario1.png)
-- ![Estabilidade da Latência por Execução - Cenário 3](logs/final_graphs/6a_run_stability_latency_scenario3.png)
+- ![Latência vs Clientes (com outliers)](v4/logs/final_graphs/1a_latency_vs_clients_with_outliers.png)
+- ![Latência vs Clientes (sem outliers)](v4/logs/final_graphs/1b_latency_vs_clients_no_outliers.png)
+- ![Latência vs Réplicas de Servidor (com outliers)](v4/logs/final_graphs/3a_latency_vs_servers_with_outliers.png)
+- ![Latência vs Réplicas de Servidor (sem outliers)](v4/logs/final_graphs/3b_latency_vs_servers_no_outliers.png)
+- ![Distribuição Geral de Latência](v4/logs/final_graphs/4_overall_latency_distribution.png)
+- ![Heatmap de Latência (C++)](v4/logs/final_graphs/5_heatmap_latency_cpp.png)
+- ![Heatmap de Latência (Go)](v4/logs/final_graphs/5_heatmap_latency_go.png)
+- ![Estabilidade da Latência por Execução - Cenário 1](v4/logs/final_graphs/6a_run_stability_latency_scenario1.png)
+- ![Estabilidade da Latência por Execução - Cenário 3](v4/logs/final_graphs/6a_run_stability_latency_scenario3.png)
 ---
 
 ## Estatísticas Gerais Agrupadas por Linguagem
