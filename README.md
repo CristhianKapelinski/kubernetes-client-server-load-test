@@ -1,4 +1,4 @@
-# k8s-client-server-load-test
+# kubernetes-client-server-load-test
 
 Este projeto automatiza testes de desempenho entre implementações de servidores e clientes TCP em Go e C++ utilizando Kubernetes. O objetivo é comparar o desempenho das duas linguagens em diferentes cenários de carga, coletando métricas, processando resultados e gerando gráficos e relatórios de análise.
 
